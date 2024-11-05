@@ -1,6 +1,7 @@
 My Haskell problem solving files from R. Skinner's book. 
 ![rshaskell](https://github.com/user-attachments/assets/dad1ce16-b7e2-4426-ac89-379561650123)
 
+Въведение и кратка история на езика:
 ![428473473_122106335576213809_1042972921387410039_n](https://github.com/user-attachments/assets/9aecad07-bb24-42f9-8f77-cefb9fabaac9)
 
 ![428599297_122106335744213809_7248312853605130601_n](https://github.com/user-attachments/assets/3d7196c6-f3dd-4e4d-b10d-f765cc55f964)
